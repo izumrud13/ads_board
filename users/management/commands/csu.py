@@ -16,7 +16,7 @@ class Command(BaseCommand):
             user = User.objects.create(
                 email=os.getenv('SUPERUSER_EMAIL'),
                 first_name='Admin',
-                last_name='SkyPro',
+                last_name='Adminov',
                 is_staff=True,
                 is_superuser=True,
                 is_active=True
