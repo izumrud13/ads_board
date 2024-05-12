@@ -1,0 +1,38 @@
+[
+  {
+    "model": "users.user",
+    "pk": 10,
+    "fields": {
+      "password": "1111",
+      "username": "Gena",
+      "email": "test1@mail.ru",
+      "first_name": "Dima",
+      "last_name": "ivanov",
+      "phone": 795210001
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 11,
+    "fields": {
+      "password": "1111",
+      "username": "Petr",
+      "email": "test2@mail.ru",
+      "first_name": "ivan",
+      "last_name": "ivanov",
+      "phone": 795210001
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 12,
+    "fields": {
+      "password": "1111",
+      "username": "Gena21",
+      "email": "test3@mail.ru",
+      "first_name": "ivan",
+      "last_name": "ivanov",
+      "phone": 795210001
+    }
+  }
+]
